@@ -1,7 +1,7 @@
 ---
 name: Docs Translation Issue
 about: Vue Viexns ワークショップドキュメント翻訳プロジェクト
-title: 'ja: [Markdown title]'
+title: 'jp: [Markdown title]'
 labels: ''
 assignees: ''
 
